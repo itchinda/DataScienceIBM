@@ -23,5 +23,3 @@ a = nb1.value
 b = nb2.value
 c = addition(a,b)
 print(c)
-string = str(nb3)
-print(string)
