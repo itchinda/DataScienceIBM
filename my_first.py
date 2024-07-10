@@ -1,8 +1,3 @@
-import pandas as pd
-import numpy as np
-import matplotlib
-from matplotlib import pyplot as plt
-
 # a function that return the sum of two numbers
 def addition(p_a: float, p_b: float) -> float:
   return p_a+p_b
